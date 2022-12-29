@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "@types/styled-components": "^5.1.26",
     "antd": "^5.1.1",
+    "axios": "^1.2.1",
     "mapbox-gl": "^2.11.1",
     "normalize.css": "^8.0.1",
     "react": "^18.2.0",
